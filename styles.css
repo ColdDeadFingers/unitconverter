@@ -1,0 +1,35 @@
+body {
+  font-size: 17px;
+}
+
+.box {
+  background: linear-gradient(246.26deg, #585dfe 0%, #fb3796 100%);
+  position: absolute;
+  width: 550px;
+  height: 250px;
+  color: aliceblue;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.headtext {
+  font-size: 25px;
+  font-weight: bold;
+  align-items: center;
+}
+
+.resultvalues {
+  background-color: antiquewhite;
+  color: black;
+}
+
+.input {
+  border: none;
+  outline: none;
+  background: none;
+  resize: none;
+  color: aliceblue;
+  text-align: center;
+  font-size: 30px;
+}
